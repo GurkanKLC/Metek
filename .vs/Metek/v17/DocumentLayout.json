@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}|Metek.Api\\Metek.Api.csproj|c:\\users\\gurka\\documents\\metek\\metek\\metek.api\\controllers\\mesaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}|Metek.Api\\Metek.Api.csproj|solutionrelative:metek.api\\controllers\\mesaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C479AC-32C7-43E2-BA55-663A79DB82FB}|Metek.Application\\Metek.Application.csproj|c:\\users\\gurka\\documents\\metek\\metek\\metek.application\\resolver\\updatemesaicommandtomesairesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C479AC-32C7-43E2-BA55-663A79DB82FB}|Metek.Application\\Metek.Application.csproj|solutionrelative:metek.application\\resolver\\updatemesaicommandtomesairesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C479AC-32C7-43E2-BA55-663A79DB82FB}|Metek.Application\\Metek.Application.csproj|c:\\users\\gurka\\documents\\metek\\metek\\metek.application\\features\\mesai\\commands\\update\\updatemesaicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C479AC-32C7-43E2-BA55-663A79DB82FB}|Metek.Application\\Metek.Application.csproj|solutionrelative:metek.application\\features\\mesai\\commands\\update\\updatemesaicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE52C9D-6199-4531-B28D-1BD90F215810}|Metek.Web\\Metek.Web.csproj|c:\\users\\gurka\\documents\\metek\\metek\\metek.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DE52C9D-6199-4531-B28D-1BD90F215810}|Metek.Web\\Metek.Web.csproj|solutionrelative:metek.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MesaiController.cs",
+              "DocumentMoniker": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Api\\Controllers\\MesaiController.cs",
+              "RelativeDocumentMoniker": "Metek.Api\\Controllers\\MesaiController.cs",
+              "ToolTip": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Api\\Controllers\\MesaiController.cs",
+              "RelativeToolTip": "Metek.Api\\Controllers\\MesaiController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:51:18.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateMesaiCommandToMesaiResolver.cs",
+              "DocumentMoniker": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Application\\Resolver\\UpdateMesaiCommandToMesaiResolver.cs",
+              "RelativeDocumentMoniker": "Metek.Application\\Resolver\\UpdateMesaiCommandToMesaiResolver.cs",
+              "ToolTip": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Application\\Resolver\\UpdateMesaiCommandToMesaiResolver.cs",
+              "RelativeToolTip": "Metek.Application\\Resolver\\UpdateMesaiCommandToMesaiResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:50:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateMesaiCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Application\\Features\\Mesai\\Commands\\Update\\UpdateMesaiCommand.cs",
+              "RelativeDocumentMoniker": "Metek.Application\\Features\\Mesai\\Commands\\Update\\UpdateMesaiCommand.cs",
+              "ToolTip": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Application\\Features\\Mesai\\Commands\\Update\\UpdateMesaiCommand.cs",
+              "RelativeToolTip": "Metek.Application\\Features\\Mesai\\Commands\\Update\\UpdateMesaiCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:49:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Metek.Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gurka\\Documents\\Metek\\Metek\\Metek.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Metek.Web\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJ4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T19:16:19.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

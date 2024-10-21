@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metek.Api", "Metek.Api\Metek.Api.csproj", "{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metek.Persistence", "Metek.Persistence\Metek.Persistence.csproj", "{A51A8417-90CE-4C1C-BE40-3D169C092DD6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metek.Infrastructure", "Metek.Infrastructure\Metek.Infrastructure.csproj", "{3CEB3976-2A01-4B4B-BC7A-711AE5877BF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metek.Domain", "Metek.Domain\Metek.Domain.csproj", "{AB6BAF2D-49EB-4970-A337-95AD19AB0D54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metek.Application", "Metek.Application\Metek.Application.csproj", "{60C479AC-32C7-43E2-BA55-663A79DB82FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metek.Web", "Metek.Web\Metek.Web.csproj", "{2DE52C9D-6199-4531-B28D-1BD90F215810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F27D8D-CAE6-4D94-BFEE-6D6E7EC43D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51A8417-90CE-4C1C-BE40-3D169C092DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51A8417-90CE-4C1C-BE40-3D169C092DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51A8417-90CE-4C1C-BE40-3D169C092DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51A8417-90CE-4C1C-BE40-3D169C092DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CEB3976-2A01-4B4B-BC7A-711AE5877BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CEB3976-2A01-4B4B-BC7A-711AE5877BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CEB3976-2A01-4B4B-BC7A-711AE5877BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CEB3976-2A01-4B4B-BC7A-711AE5877BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB6BAF2D-49EB-4970-A337-95AD19AB0D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6BAF2D-49EB-4970-A337-95AD19AB0D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6BAF2D-49EB-4970-A337-95AD19AB0D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6BAF2D-49EB-4970-A337-95AD19AB0D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C479AC-32C7-43E2-BA55-663A79DB82FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C479AC-32C7-43E2-BA55-663A79DB82FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C479AC-32C7-43E2-BA55-663A79DB82FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C479AC-32C7-43E2-BA55-663A79DB82FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE52C9D-6199-4531-B28D-1BD90F215810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE52C9D-6199-4531-B28D-1BD90F215810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE52C9D-6199-4531-B28D-1BD90F215810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE52C9D-6199-4531-B28D-1BD90F215810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0C9A45-8BF2-43E7-8824-7090D65CC050}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\bin\Debug\netcoreapp3.1\Metek.Infrastructure.deps.json
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\bin\Debug\netcoreapp3.1\Metek.Infrastructure.dll
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\bin\Debug\netcoreapp3.1\Metek.Infrastructure.pdb
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.AssemblyInfo.cs
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.dll
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.pdb
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\bin\Debug\netcoreapp3.1\Metek.Infrastructure.runtimeconfig.json
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\bin\Debug\netcoreapp3.1\Metek.Infrastructure.runtimeconfig.dev.json
+C:\Users\gurka\Documents\Metek\Metek\Metek.Infrastructure\obj\Debug\netcoreapp3.1\Metek.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\bin\Debug\netcoreapp3.1\Metek.Domain.deps.json
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\bin\Debug\netcoreapp3.1\Metek.Domain.dll
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\bin\Debug\netcoreapp3.1\Metek.Domain.pdb
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.AssemblyInfoInputs.cache
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.AssemblyInfo.cs
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.dll
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.pdb
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\bin\Debug\netcoreapp3.1\Metek.Domain.runtimeconfig.json
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\bin\Debug\netcoreapp3.1\Metek.Domain.runtimeconfig.dev.json
+C:\Users\gurka\Documents\Metek\Metek\Metek.Domain\obj\Debug\netcoreapp3.1\Metek.Domain.genruntimeconfig.cache
